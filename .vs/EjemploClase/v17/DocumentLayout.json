@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\repository\\northwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:repository\\northwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\repository\\inorthwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:repository\\inorthwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\model\\productwithcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:model\\productwithcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\model\\employeetitlecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:model\\employeetitlecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\model\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:model\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\datacontext\\datacontextnorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:datacontext\\datacontextnorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\controllers\\ejemplosindycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:controllers\\ejemplosindycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\controllers\\ejemplocondycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:controllers\\ejemplocondycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\ejemplocondy\\usuarioservicecondy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:ejemplocondy\\usuarioservicecondy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\ejemplocondy\\emailservicecondy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:ejemplocondy\\emailservicecondy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\ejemplocondy\\iemailservicecondy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:ejemplocondy\\iemailservicecondy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\ejemplosindy\\usuarioservicesindy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:ejemplosindy\\usuarioservicesindy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\.net\\ejemploclase\\ejemplosindy\\emailservicesindy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08956AE-5FD5-4AE6-ADBB-46C75C63CC9F}|EjemploClase.csproj|solutionrelative:ejemplosindy\\emailservicesindy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductWithCategory.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\ProductWithCategory.cs",
+              "RelativeDocumentMoniker": "Model\\ProductWithCategory.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\ProductWithCategory.cs",
+              "RelativeToolTip": "Model\\ProductWithCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:50:45.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeTitleCount.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\EmployeeTitleCount.cs",
+              "RelativeDocumentMoniker": "Model\\EmployeeTitleCount.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\EmployeeTitleCount.cs",
+              "RelativeToolTip": "Model\\EmployeeTitleCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:50:06.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\Products.cs",
+              "RelativeDocumentMoniker": "Model\\Products.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\Products.cs",
+              "RelativeToolTip": "Model\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:52:12.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthwindRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Repository\\NorthwindRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\NorthwindRepository.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Repository\\NorthwindRepository.cs",
+              "RelativeToolTip": "Repository\\NorthwindRepository.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwGoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:07:16.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\Employees.cs",
+              "RelativeDocumentMoniker": "Model\\Employees.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\Employees.cs",
+              "RelativeToolTip": "Model\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:02:02.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NorthwindController.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Controllers\\NorthwindController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NorthwindController.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Controllers\\NorthwindController.cs",
+              "RelativeToolTip": "Controllers\\NorthwindController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:57:57.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INorthwindRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Repository\\INorthwindRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\INorthwindRepository.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Repository\\INorthwindRepository.cs",
+              "RelativeToolTip": "Repository\\INorthwindRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:06:51.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\Categories.cs",
+              "RelativeDocumentMoniker": "Model\\Categories.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Model\\Categories.cs",
+              "RelativeToolTip": "Model\\Categories.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:58:35.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContextNorthwind.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\DataContext\\DataContextNorthwind.cs",
+              "RelativeDocumentMoniker": "DataContext\\DataContextNorthwind.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\DataContext\\DataContextNorthwind.cs",
+              "RelativeToolTip": "DataContext\\DataContextNorthwind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:54:03.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EjemploSinDYController.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Controllers\\EjemploSinDYController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EjemploSinDYController.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Controllers\\EjemploSinDYController.cs",
+              "RelativeToolTip": "Controllers\\EjemploSinDYController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:58:05.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:03:58.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EjemploConDYController.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Controllers\\EjemploConDYController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EjemploConDYController.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\Controllers\\EjemploConDYController.cs",
+              "RelativeToolTip": "Controllers\\EjemploConDYController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:17:49.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T20:08:57.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailServiceConDY.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploConDY\\EmailServiceConDY.cs",
+              "RelativeDocumentMoniker": "EjemploConDY\\EmailServiceConDY.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploConDY\\EmailServiceConDY.cs",
+              "RelativeToolTip": "EjemploConDY\\EmailServiceConDY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:10:14.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmailServiceConDY.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploConDY\\IEmailServiceConDY.cs",
+              "RelativeDocumentMoniker": "EjemploConDY\\IEmailServiceConDY.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploConDY\\IEmailServiceConDY.cs",
+              "RelativeToolTip": "EjemploConDY\\IEmailServiceConDY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:09:48.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioServiceConDY.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploConDY\\UsuarioServiceConDY.cs",
+              "RelativeDocumentMoniker": "EjemploConDY\\UsuarioServiceConDY.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploConDY\\UsuarioServiceConDY.cs",
+              "RelativeToolTip": "EjemploConDY\\UsuarioServiceConDY.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:09:17.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailServiceSinDY.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploSinDY\\EmailServiceSinDY.cs",
+              "RelativeDocumentMoniker": "EjemploSinDY\\EmailServiceSinDY.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploSinDY\\EmailServiceSinDY.cs",
+              "RelativeToolTip": "EjemploSinDY\\EmailServiceSinDY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:45:57.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioServiceSinDY.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploSinDY\\UsuarioServiceSinDY.cs",
+              "RelativeDocumentMoniker": "EjemploSinDY\\UsuarioServiceSinDY.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\.NET\\EjemploClase\\EjemploSinDY\\UsuarioServiceSinDY.cs",
+              "RelativeToolTip": "EjemploSinDY\\UsuarioServiceSinDY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:45:37.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
