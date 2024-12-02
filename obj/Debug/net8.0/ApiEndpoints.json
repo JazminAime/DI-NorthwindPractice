@@ -73,6 +73,83 @@
   },
   {
     "ContainingType": "EjemploClase.Controllers.NorthwindController",
+    "Method": "EliminarOrdenPorID",
+    "RelativePath": "api/Northwind/api/EliminarOrdenPorID",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EjemploClase.Controllers.NorthwindController",
+    "Method": "InsertarEmpleado",
+    "RelativePath": "api/Northwind/api/InsertarEmpleado",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EjemploClase.Controllers.NorthwindController",
+    "Method": "ModificarNombreEmpleado",
+    "RelativePath": "api/Northwind/api/ModificarNombreEmpleado",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EjemploClase.Controllers.NorthwindController",
     "Method": "ObtenerCantidadEmpleadosPorTitulo",
     "RelativePath": "api/Northwind/api/ObtenerCantidadEmpleadosPorTitulo",
     "HttpMethod": "GET",

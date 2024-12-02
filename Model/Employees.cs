@@ -11,5 +11,7 @@ namespace EjemploClase.Model
         public string Title { get; set; }
         public string Country { get; set; }
         public DateTime BirthDate { get; set; }
+        public string City { get; set; }
+        public DateTime HireDate { get; set; }
     }
 }

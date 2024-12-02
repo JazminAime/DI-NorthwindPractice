@@ -3,6 +3,7 @@ using EjemploClase.Model;
 using EjemploClase.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel.DataAnnotations;
 
 namespace EjemploClase.Controllers
 {
@@ -88,6 +89,24 @@ namespace EjemploClase.Controllers
         public async Task<List<Products>> ObtenerProductosConPalabraChef()
         {
             return await _repository.ObtenerProductosConPalabraChef();
+        }
+        [HttpDelete]
+        [Route("api/EliminarOrdenPorID")]
+        public async Task<bool> EliminarOrdenPorID([Required, FromQuery] int id)
+        {
+            return await _repository.EliminarOrdenPorID(id);
+        }
+        [HttpPut]
+        [Route("api/InsertarEmpleado")]
+        public async Task<bool> InsertarEmpleado()
+        {
+            return await _repository.InsertarEmpleado();
+        }
+        [HttpPut]
+        [Route("api/ModificarNombreEmpleado")]
+        public async Task<bool> ModificarNombreEmpleado([Required, FromQuery] int id, [Required, FromQuery] string nombre)
+        {
+            return await _repository.ModificarNombreEmpleado(id, nombre);
         }
     }
 }

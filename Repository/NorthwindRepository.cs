@@ -78,11 +78,11 @@ namespace EjemploClase.Repository
         public async Task<List<EmployeeTitleCount>> ObtenerCantidadEmpleadosPorTitulo()
         {
             var result = await _dataContext.Employees
-                .GroupBy(emp => emp.Title)
-                .Select(g => new EmployeeTitleCount
+                .GroupBy(emp => emp.Title) // Agrupa los empleados por su titulo
+                .Select(g => new EmployeeTitleCount // Proyecta los resultados en una nueva clase
                 {
-                    Title = g.Key,
-                    Count = g.Count()
+                    Title = g.Key, // Titulo
+                    Count = g.Count() // Numero de empleados con ese titulo
                 })
                 .ToListAsync();
 
@@ -92,11 +92,11 @@ namespace EjemploClase.Repository
         {
             var result = from prod in _dataContext.Products
                          join cat in _dataContext.Categories on prod.CategoryID equals cat.CategoryID
-                         select new ProductWithCategory
+                         select new ProductWithCategory // Proyecta los resultados en una nueva clase
                          {
                              ProductID = prod.ProductID,
                              ProductName = prod.ProductName,
-                             CategoryName = cat.CategoryName
+                             CategoryName = cat.CategoryName // Inclute informacion de otra tabla
                          };
 
             return await result.ToListAsync();
@@ -106,6 +106,45 @@ namespace EjemploClase.Repository
             var result = _dataContext.Products
             .Where(p => p.ProductName != null && EF.Functions.Like(p.ProductName, "%chef%"));
             return await result.ToListAsync();
+        }
+        public async Task<bool> EliminarOrdenPorID(int orderID)
+        {
+            Orders? order = await _dataContext.Orders.Where(r => r.OrderID == orderID).FirstOrDefaultAsync();
+            OrderDetails? orderDetail = await _dataContext.OrderDetails.Where(r => r.OrderID == order.OrderID).FirstOrDefaultAsync();
+
+            _dataContext.OrderDetails.Remove(orderDetail);
+            _dataContext.Orders.Remove(order);
+
+            var resultado = _dataContext.SaveChanges();
+            return true;
+        }
+        public async Task<bool> InsertarEmpleado()
+        {
+            Employees employee = new Employees();
+            employee.Title = "sales manager";
+            employee.City = "Rosario";
+            employee.FirstName = "Jazmin";
+            employee.LastName = "Falcon";
+            employee.Country = "Argentina";
+            employee.HireDate = DateTime.Now;
+            employee.BirthDate = DateTime.Now;
+            var newEmployee = await _dataContext.AddAsync(employee);
+            var result = _dataContext.SaveChanges();
+
+            return (result > 0);
+
+        }
+        public async Task<bool> ModificarNombreEmpleado(int idEmpleado, string nombre)
+        {
+            bool actualizado = false;
+            Employees result = await _dataContext.Employees.Where(r => r.EmployeeID == idEmpleado).FirstOrDefaultAsync();
+            if (result != null)
+            {
+                result.FirstName = nombre;
+                var resultado = _dataContext.SaveChanges();
+                actualizado = true;
+            }
+            return actualizado;
         }
     }
 }

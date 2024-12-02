@@ -15,6 +15,10 @@ namespace EjemploClase.Repository
         Task<List<EmployeeTitleCount>> ObtenerCantidadEmpleadosPorTitulo();
         Task<List<ProductWithCategory>> ObtenerProductosConCategoria();
         Task<List<Products>> ObtenerProductosConPalabraChef();
+        Task<bool> EliminarOrdenPorID(int OrderID);
+        Task<bool> InsertarEmpleado();
+        Task<bool> ModificarNombreEmpleado(int idEmpleado, string nombre);
+
 
     }
 }

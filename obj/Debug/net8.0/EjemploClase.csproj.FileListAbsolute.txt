@@ -84,3 +84,4 @@ C:\Users\jazmi\OneDrive\Escritorio\FullStack-GSC-UTN\BACKEND\.NET\EjemploClase\b
 C:\Users\jazmi\OneDrive\Escritorio\FullStack-GSC-UTN\BACKEND\.NET\EjemploClase\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\jazmi\OneDrive\Escritorio\FullStack-GSC-UTN\BACKEND\.NET\EjemploClase\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\jazmi\OneDrive\Escritorio\FullStack-GSC-UTN\BACKEND\.NET\EjemploClase\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jazmi\OneDrive\Escritorio\FullStack-GSC-UTN\BACKEND\.NET\EjemploClase\obj\Debug\net8.0\EjemploClase.sourcelink.json
